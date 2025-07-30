@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marcusdba/portfolio/main/banner.png" alt="Portfólio Banner" width="100%">
+</p>
+
 # 🌐 Portfólio Pessoal
 
 Meu portfólio online como Desenvolvedor Web, criado para apresentar meus projetos, tecnologias e formas de contato.  
 O site é responsivo e foi desenvolvido com **HTML, CSS e JavaScript**.
 
 🔗 **Acesse o projeto online:**  
-👉 [Clique aqui para ver a aplicação](https://marcusdba.github.io/portfolio/) *(link ficará ativo após publicação no GitHub Pages)*
+👉 [Clique aqui para ver a aplicação](https://marcusdba.github.io/portfolio/)
 
 ---
 
@@ -12,7 +16,7 @@ O site é responsivo e foi desenvolvido com **HTML, CSS e JavaScript**.
 
 Veja abaixo uma prévia do portfólio:
 
-![Screenshot do projeto](./screenshot.png)
+![Screenshot do projeto](https://raw.githubusercontent.com/Marcusdba/portfolio/main/screenshot.png)
 
 ---
 
